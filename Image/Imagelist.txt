@@ -1,0 +1,4 @@
+4 kinds portrait
+1 miniicon
+1 items
+1 map
